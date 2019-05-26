@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
-categories: [Miscellaneous, Jekyll]
+title: Introducing MyPad.tk - A ridiculously elegant Jekyll theme
+categories:
+  - Miscellaneous
+  - Jekyll
+published: true
 ---
 
 [Reverie](https://github.com/amitmerchant1990/reverie) is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and [personal touches](https://github.com/amitmerchant1990/amitmerchant1990.github.io) which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
@@ -76,5 +79,3 @@ The generated sitemap of your blog can be found at <https://yourgithubusername.g
 ## License
 
 MIT
-
-
