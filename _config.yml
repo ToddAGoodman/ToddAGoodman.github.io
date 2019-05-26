@@ -21,10 +21,10 @@ avatar: /reverie/images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: todd@tagoodman.com
   facebook:
   flickr:
-  github: todd@tagoodman.com
+  github: toddagoodman
   instagram:
   linkedin: 
   pinterest:
@@ -46,7 +46,7 @@ google_analytics:
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
 url: http://mypad.tk
-enforce_ssl: https://toddagoodman.github.io
+enforce_ssl: https://mypad.tk
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
